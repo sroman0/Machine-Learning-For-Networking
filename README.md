@@ -33,12 +33,15 @@ The *"Machine Learning for Networking"* course focuses on the intersection of **
 ```
 Machine-Learning-For-Networking/
 ├── labs/
-│   ├── lab1_data_preprocessing.ipynb      # Data cleaning and feature engineering
-│   ├── lab2_supervised_learning.ipynb     # Classification and regression techniques
-│   ├── lab3_unsupervised_learning.ipynb   # Clustering and dimensionality reduction
-│   ├── lab4_anomaly_detection.ipynb       # Detecting anomalies in network traffic
-│   ├── lab5_traffic_classification.ipynb  # Identifying types of network traffic
-│   └── datasets/                          # Datasets used in the labs
+│   ├── lab1                               
+│   ├── lab2                               
+│   ├── lab3                               
+│   ├── lab4                               
+│   ├── lab5                               
+│   ├── lab6
+│   ├── lab7
+│   ├── lab9
+│   └── lab10
 ├── requirements.txt                      # Python package dependencies
 ├── .gitignore                            # Git ignore rules
 ├── LICENSE                               # License information
